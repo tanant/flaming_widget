@@ -1,0 +1,1 @@
+A collection of snippets tha are useful, and can be shipped back and forth
